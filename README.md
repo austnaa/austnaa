@@ -1,4 +1,4 @@
-### Heyo! 👋
+### Heyo! ✌🏼
 
 I'm Austn Attaway, an aspiring software engineer. 
 Since you are checking out my profile, here's a few of my favorite projects I have contributed to. 
