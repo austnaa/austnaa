@@ -1,4 +1,18 @@
-### Hi there 👋
+### Heyo! 👋
+
+I'm Austn Attaway, an aspiring software engineer. 
+Since you are checking out my profile, here's a few of my favorite projects I have contributed to. 
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **austnaa/austnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
