@@ -1,6 +1,6 @@
 (Note this readme is a work in progress) 
 
-# Heyo! ✌🏼
+# Heyo! 
 
 
 <h3>I'm Austn Attaway, an aspiring software engineer. 
@@ -12,11 +12,10 @@ favorite projects I have contributed to.
 <br>
 
 ### TalkBox Android Chat App 
-Check out the overview video [here](https://youtu.be/N9kNeRD_wa4)
 
-Check out the front end repository [here](https://github.com/msanyok/Team-1-TCSS-450)
+In the fall of 2021 my Mobile Application course tasked us with developing a full stack modern chat app for Android devices. 
+The app included all the bells and whistles you would expect in a chat app and also included a dynamic weather page. We built the [front end](https://github.com/msanyok/Team-1-TCSS-450) in Android Studio using XML and Java, and the [back end](https://github.com/Skomegna/Team-1-TCSS-450-Server) was hosted on Heroku using Node.js and a PostgreSQL database. My team and I conducted daily stand ups, managed a storyboard of user stories, and conducted four 2 week sprints throughout the quarter. I made contributions in all aspects of the project, but especially focused on designing and implemeneting CRUD (Create, Read, Update, and Delete) functionalities for contacts, chat rooms, and messages. We created a short video to culminate our accomplishments that can be viewed [here](https://youtu.be/N9kNeRD_wa4).
 
-Check out the back end repository [here](https://github.com/Skomegna/Team-1-TCSS-450-Server)
 
 <br>
 
