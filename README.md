@@ -3,14 +3,13 @@
 **austnaa/austnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-(Note this readme is a work in progress) 
 
-# Heyo! 
+# Heyo! 👋
 
 
-<h3>I'm Austn Attaway, an aspiring software engineer. 
-Since you are checking out my profile, here's a few of my 
-favorite projects I have contributed to.
+<h3>I'm Austn Attaway, a recent graduate from the University of Washington Tacoma and an aspiring software engineer.
+While I don't have much 'professional' experience yet, I've contributed to some pretty awesome projects. Here are some of my favorites!
+
 
 <br>
 <br>
@@ -38,8 +37,7 @@ While not as flashy as some of my other projects, the Drawing Application projec
 
 ### Trivia Maze
 
-
-The Trivia Maze project is particularly special to me because it was the first group project I contributed to. Learning how to work in a team based environment took some getting used to and it wasn’t smooth sailing all the time. However, the project we created turned out to be worth being proud of and some of the lessons I learned in working as a unit have helped me greatly. If you want to check out the repository for the trivia maze, you can see view it [here](https://github.com/austnaa/AmazingTriviaMaze).
+The Trivia Maze project is particularly special to me because it was the first group project I contributed to. Learning how to work in a team based environment took some getting used to and it wasn’t smooth sailing all the time. However, the project we created turned out to be pretty cool and some of the lessons I learned in working as a unit have helped me greatly. I was also able to write a ton of concice and thorough automated tests using JUnit for this project, which was one of the highlights of the develoment process. If you want to check out the repository for the trivia maze, you can see view it [here](https://github.com/austnaa/AmazingTriviaMaze).
 
 
 
