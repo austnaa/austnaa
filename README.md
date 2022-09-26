@@ -20,10 +20,8 @@ The app included all the bells and whistles you would expect in a chat app and a
 <br>
 
 ### Animal Assault
-
-Check out the repository [here](https://github.com/roseypark19/TCSS-491-Group-Project)
-
-Check out the overview video [here](https://youtu.be/_9G0nOoeQFo)
+  
+For many UW Tacoma computer science students the Computational World’s class is a must take course. This class allows us to create a JavaScript based game with few requirements and limitations. In the winter of 2022 my teammates and I went into the class with high expectations for ourselves and after 10 weeks of rigorous development, we felt like we reached them. We created Animal Assault, a top-down adventure game. It includes a “bullet hell” style of combat that takes place among multiple environments. I contributed heavily to the [repository](https://github.com/roseypark19/TCSS-491-Group-Project) including environment/level design and the town location, which required multiple clickable user interface components that had to be designed from scratch. I also implemented the local storage functionality that allows users to save their progress in their browser cache. You can play the game [here](https://roseypark19.github.io/TCSS-491-Group-Project/) and watch the gameplay trailer [here](https://youtu.be/_9G0nOoeQFo).
 
 <br>
 
