@@ -1,3 +1,8 @@
+
+<!--
+**austnaa/austnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 (Note this readme is a work in progress) 
 
 # Heyo! 
@@ -27,13 +32,14 @@ For many UW Tacoma computer science students the Computational World’s class i
 
 ### Drawing Application
 
-Check out the repository [here](https://github.com/austnaa/DrawingApplication)
+While not as flashy as some of my other projects, the Drawing Application project I completed in my first quarter at UW Tacoma was integral in my development as a software engineer. This project was a solo assignment that required me to follow a set of detailed instructions closely. I got practice building a project utilizing the MVC (Model View Controller) design pattern and  heavily benefited from following the four principles of object oriented programming: abstraction, encapsulation, inheritance, and polymorphism. I recall being proud about how clean and readable my code and documentation was on this project, and you can check it out [here](https://github.com/austnaa/DrawingApplication) if you would like.  
 
 <br>
 
 ### Trivia Maze
 
-Check out the repository [here](https://github.com/austnaa/AmazingTriviaMaze)
+
+The Trivia Maze project is particularly special to me because it was the first group project I contributed to. Learning how to work in a team based environment took some getting used to and it wasn’t smooth sailing all the time. However, the project we created turned out to be worth being proud of and some of the lessons I learned in working as a unit have helped me greatly. If you want to check out the repository for the trivia maze, you can see view it [here](https://github.com/austnaa/AmazingTriviaMaze).
 
 
 
@@ -49,17 +55,3 @@ Check out the repository [here](https://github.com/austnaa/AmazingTriviaMaze)
 
 
 
-<!--
-**austnaa/austnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
