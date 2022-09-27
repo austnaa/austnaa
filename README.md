@@ -17,7 +17,7 @@ While I don't have much 'professional' experience yet, I've contributed to some 
 
 ### TalkBox Android Chat App 
 
-In the fall of 2021 my Mobile Application course tasked us with developing a full stack modern chat app for Android devices. 
+In the fall of 2021 my Mobile Application course asked us to develop a full stack modern chat app for Android devices. 
 The app included all the bells and whistles you would expect in a chat app and also included a dynamic weather page. We built the [front end](https://github.com/msanyok/Team-1-TCSS-450) in Android Studio using XML and Java, and the [back end](https://github.com/Skomegna/Team-1-TCSS-450-Server) was hosted on Heroku using Node.js and a PostgreSQL database. My team and I conducted daily stand ups, managed a storyboard of user stories, and conducted four 2 week sprints throughout the quarter. I made contributions in all aspects of the project, but especially focused on designing and implementing CRUD (Create, Read, Update, and Delete) functionalities for contacts, chat rooms, and messages. We created a short video to culminate our accomplishments that can be viewed [here](https://youtu.be/N9kNeRD_wa4).
 
 
@@ -31,7 +31,7 @@ For many UW Tacoma computer science students the Computational World’s class i
 
 ### Drawing Application
 
-While not as flashy as some of my other projects, the Drawing Application project I completed in my first quarter at UW Tacoma was integral in my development as a software engineer. This project was a solo assignment that required me to follow a set of detailed instructions closely. I got practice building a project utilizing the MVC (Model View Controller) design pattern and  heavily benefited from following the four principles of object oriented programming: abstraction, encapsulation, inheritance, and polymorphism. I recall being proud about how clean and readable my code and documentation was on this project, and you can check it out [here](https://github.com/austnaa/DrawingApplication) if you would like.  
+While not as flashy as some of my other projects, the Drawing Application project I completed in my first quarter at UW Tacoma was integral in my development as a software engineer. This project was a solo assignment that required me to follow a set of detailed instructions closely. I got practice building a project utilizing the MVC (Model View Controller) design pattern and heavily benefited from following the four principles of object oriented programming: abstraction, encapsulation, inheritance, and polymorphism. I recall being proud about how clean and readable my code and documentation was on this project, and you can check it out [here](https://github.com/austnaa/DrawingApplication) if you would like.  
 
 <br>
 
