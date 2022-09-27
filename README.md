@@ -37,7 +37,7 @@ While not as flashy as some of my other projects, the Drawing Application projec
 
 ### Trivia Maze
 
-The Trivia Maze project is particularly special to me because it was the first group project I contributed to. Learning how to work in a team based environment took some getting used to and it wasn’t smooth sailing all the time. However, the project we created turned out to be pretty cool and some of the lessons I learned in working as a unit have helped me greatly. I was also able to write a ton of concice and thorough automated tests using JUnit for this project, which was one of the highlights of the develoment process. If you want to check out the repository for the trivia maze, you can see view it [here](https://github.com/austnaa/AmazingTriviaMaze).
+The Trivia Maze project is particularly special to me because it was the first group project I contributed to. Learning how to work in a team based environment took some getting used to and it wasn’t smooth sailing all the time. However, the project we created turned out to be pretty cool and some of the lessons I learned in working as a unit have helped me greatly. I was also able to write a ton of concise and thorough automated tests using JUnit for this project, which was one of the highlights of the development process. If you want to check out the repository for the trivia maze, you can view it [here](https://github.com/austnaa/AmazingTriviaMaze).
 
 
 
